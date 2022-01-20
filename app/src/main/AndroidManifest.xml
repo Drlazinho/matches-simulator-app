@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Simulator">
         <activity
+            android:name=".DetailActivity"
+            android:theme="@style/Theme.Simulator.NoActionBar"
+            android:exported="true"/>
+
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
