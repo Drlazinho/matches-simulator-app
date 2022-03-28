@@ -9,3 +9,9 @@ App Android Nativo de Simulação de Partidas. Repositório organizado em alguma
          - Android Jetpack: SwipeRefreshLayout
          - Material Design - Paleta de Cores e Ícones
          - Layout - Tela de Listagem, Tela de detalhes, CardView, boas práticas
+3. Java e Kotlin Juntos!? Construindo Apps Android
+   - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/Drlazinho/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
+        - RecyclerView e Adapter
+        - Glide e Retrofit (Imagem e API)
+        - Parceable
+        - Intent Activity
