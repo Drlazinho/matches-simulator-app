@@ -15,3 +15,7 @@ App Android Nativo de Simulação de Partidas. Repositório organizado em alguma
         - Glide e Retrofit (Imagem e API)
         - Parceable
         - Intent Activity
+4. Explorando o Firebase Para Apps Android Resilientes
+    - [release/explorando-o-firebase-para-apps-android-resilientes](https://github.com/Drlazinho/matches-simulator-app/tree/release/explorando-o-firebase-para-apps-android-resilientes)
+        - Firebase
+        - Crashlytics   
